@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/final-particles assignment.unity
+    guid: 2ea9778c50a71d0469e9492edaaf0c0b
   m_configObjects: {}
